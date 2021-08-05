@@ -2,7 +2,7 @@
 Open iTerm in the current finder location.
 
 ## Where to download?
-You can download the latest app [Here](https://github.com/dyckia/open-iterm-here/tree/main/app).
+You can download the latest app [Here](https://github.com/dyckia/open-iterm-here/releases/tag/v1.1).
 
 ## How to use?
 1. Unzip the file and move the app to the Application folder.
